@@ -1,0 +1,53 @@
+sort1 uses: bubble sort
+How do you know?: It's expected to be the slowest algorithm except in his best cenario (already sorted). Comparing the results
+with the others, sort1 is the one that represent this behavior the most.
+
+sort2 uses: merge sort
+How do you know?: It's expected to be the faster in random lists, without significant variation in worst or best cenario. Sort2
+resuts is the one that represent this behavior the most.
+
+sort3 uses: selection sort
+How do you know?: It's expected to be faster then bubble and slowest then merge in random lists, without significant variation
+in worst or best cenario. Sort3 resuts is the one that represent this behavior the most.
+
+[sort1]
+{random50000}
+real    0m10.056s
+user    0m6.825s
+sys     0m0.196s
+{reversed50000}
+real    0m7.508s
+user    0m5.072s
+sys     0m0.148s
+{sorted50000}
+real    0m2.017s
+user    0m0.062s
+sys     0m0.153s
+
+[sort2]
+{random50000}
+real    0m1.738s
+user    0m0.031s
+sys     0m0.184s
+{reversed50000}
+real    0m2.700s
+user    0m0.049s
+sys     0m0.169s
+{sorted50000}
+real    0m2.482s
+user    0m0.032s
+sys     0m0.173s
+
+[sort3]
+{random50000}
+real    0m4.652s
+user    0m2.595s
+sys     0m0.185s
+{reversed50000}
+real    0m4.992s
+user    0m2.701s
+sys     0m0.199s
+{sorted50000}
+real    0m5.047s
+user    0m2.612s
+sys     0m0.205s
