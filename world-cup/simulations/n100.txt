@@ -1,0 +1,13 @@
+United States: 20.0% chance of winning
+Germany: 17.0% chance of winning
+England: 13.0% chance of winning
+Japan: 8.0% chance of winning
+Australia: 7.0% chance of winning
+Sweden: 7.0% chance of winning
+Netherlands: 6.0% chance of winning
+France: 6.0% chance of winning
+Brazil: 5.0% chance of winning
+Spain: 4.0% chance of winning
+Canada: 4.0% chance of winning
+Italy: 2.0% chance of winning
+China PR: 1.0% chance of winning

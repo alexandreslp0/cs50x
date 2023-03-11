@@ -1,0 +1,5 @@
+United States: 30.0% chance of winning
+Australia: 20.0% chance of winning
+Japan: 20.0% chance of winning
+England: 20.0% chance of winning
+Germany: 10.0% chance of winning
